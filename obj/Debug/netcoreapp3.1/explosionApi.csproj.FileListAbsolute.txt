@@ -1,0 +1,17 @@
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/bin/Debug/netcoreapp3.1/explosionApi.deps.json
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/bin/Debug/netcoreapp3.1/explosionApi.runtimeconfig.json
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/bin/Debug/netcoreapp3.1/explosionApi.runtimeconfig.dev.json
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/bin/Debug/netcoreapp3.1/explosionApi.dll
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/bin/Debug/netcoreapp3.1/explosionApi.pdb
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/explosionApi.csprojAssemblyReference.cache
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/explosionApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/explosionApi.AssemblyInfoInputs.cache
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/explosionApi.AssemblyInfo.cs
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/explosionApi.RazorTargetAssemblyInfo.cache
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/staticwebassets/explosionApi.StaticWebAssets.Manifest.cache
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/staticwebassets/explosionApi.StaticWebAssets.xml
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/explosionApi.dll
+/Users/chesireebalogh/Documents/cohort-17/explosionApi/obj/Debug/netcoreapp3.1/explosionApi.pdb
